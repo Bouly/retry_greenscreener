@@ -1,0 +1,9 @@
+{
+  "name": "retry_greenscreener",
+  "version": "1.0.0",
+  "description": "Green Screen Screenshot Studio for FiveM",
+  "private": true,
+  "dependencies": {
+    "image-js": "^0.35.0"
+  }
+}

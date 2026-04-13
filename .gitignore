@@ -1,0 +1,8 @@
+node_modules/
+web/node_modules/
+.claude/
+*.map
+data/
+!data/.gitkeep
+.yarn.installed
+yarn.lock
